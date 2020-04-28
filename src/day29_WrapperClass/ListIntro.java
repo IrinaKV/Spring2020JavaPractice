@@ -1,4 +1,4 @@
-package day29_WrepperClass;
+package day29_WrapperClass;
 import java.util.ArrayList;
 public class ListIntro {
     public static void main(String[] args) {

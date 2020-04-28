@@ -1,4 +1,4 @@
-package day29_WrepperClass;
+package day29_WrapperClass;
 
 public class UnboxingAutobaxing {
     public static void main(String[] args) {

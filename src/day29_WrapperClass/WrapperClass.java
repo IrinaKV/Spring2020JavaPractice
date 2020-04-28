@@ -1,6 +1,6 @@
-package day29_WrepperClass;
+package day29_WrapperClass;
 
-public class WrepperClass {
+public class WrapperClass {
     public static void main(String[] args) {
         int a = 100;//primitive
         Integer b = a;//wrapper class

@@ -1,7 +1,6 @@
-package day29_WrepperClass;
+package day29_WrapperClass;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class List_Practice2 {
     public static void main(String[] args) {

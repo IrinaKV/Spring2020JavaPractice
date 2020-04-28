@@ -1,4 +1,4 @@
-package day29_WrepperClass;
+package day29_WrapperClass;
 
 import java.util.Arrays;
 
